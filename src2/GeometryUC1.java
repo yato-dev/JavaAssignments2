@@ -12,7 +12,7 @@ public class GeometryUC1 {
         y2=scanner.nextInt();
 
         double length=0;
-        length=Math.sqrt( Math.pow(x2-x1, 2) + Math.pow(y2-y1, 3));
+        length=Math.sqrt( Math.pow(x2-x1, 2) + Math.pow(y2-y1, 2));
 
         System.out.println("Length of Coordinate is" + length);
         scanner.close();
