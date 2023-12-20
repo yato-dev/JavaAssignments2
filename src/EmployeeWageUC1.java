@@ -1,3 +1,5 @@
+package src;
+
 public class EmployeeWageUC1 {
     public static void main(String[] args) throws Exception {
         double probabRandom=Math.random();

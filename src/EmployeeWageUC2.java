@@ -1,3 +1,5 @@
+package src;
+
 public class EmployeeWageUC2 {
 
     public static void main(String[] args)
